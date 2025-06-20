@@ -13,12 +13,14 @@
 - Charts: Heatmaps, Bar Charts, Scatter Plots
 
 # Visualizations & Insights
-  ## 1>Ship Mode vs Order Count &  State-wise Sales Distribution & Delivery Time Analysis
-  <div style="display:flex; justify-content: space-around;">
-  <img src="D:\My Projects for DS\E-commerce Sales Analysis\Images\Screenshot 2025-06-20 125349.png" alt="Chart 1" width="30%" />
-  <img src="D:\My Projects for DS\E-commerce Sales Analysis\Images\Screenshot 2025-06-20 125409.png" alt="Chart 2" width="30%" />
-  <img src="D:\My Projects for DS\E-commerce Sales Analysis\Images\Screenshot 2025-06-20 125420.png" alt="Chart 3" width="30%" />
-</div>
+  ## 1> Ship Mode vs Order Count
+- Purpose: Understand which shipping modes are most preferred by customers.
+  ![ Ship Mode vs Order Count]("D:\My Projects for DS\E-commerce Sales Analysis\Images\Screenshot 2025-06-20 125349.png")
+  ### Insight:
+- Standard Class dominates (~6000 orders), preferred due to cost or balance of speed.
+- Same Day Delivery (~600 orders) is least used, likely due to higher cost or limited availability.
+
+
 
 
 
