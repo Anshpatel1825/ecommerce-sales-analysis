@@ -24,7 +24,7 @@
 
 ## 2>State-wise Sales Distribution
 - Purpose: Identify top-performing states by sales volume.
-  ![Chart Title](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125409.png?raw=true)
+  ![State-wise Sales Distribution](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125409.png?raw=true)
 
 ### Insight:
 - California, New York, and Texas are top revenue states (~₹2M total).
@@ -32,7 +32,7 @@
 
 ## 3>Delivery Time Analysis
 - Purpose: Analyze how quickly orders are delivered.
-  ![Chart Title](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125420.png?raw=true)
+  ![Delivery Time Analysis](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125420.png?raw=true)
 
 ### Insight:
 - Majority of deliveries happen in 4–5 days (~2800 orders).
@@ -42,23 +42,23 @@
 
 ## 4>Sales by Category
 - Purpose: See which product categories drive sales.
-  ![Chart Title](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125432.png?raw=true)
+  ![Sales by Category](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125432.png?raw=true)
 
 ### Insight:
 - Technology category leads (~₹850k revenue).
 - Furniture and Office Supplies contribute steadily (~₹730k).
 
-## 5> Profit by Sub-Category
+## 5>Profit by Sub-Category
 - Purpose: Identify the most and least profitable sub-categories.
-  ![Chart Title](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125442.png?raw=true)
+  ![Profit by Sub-Category](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125442.png?raw=true)
 
 ### Insight:
 - Copiers and Phones top profit contributors.
 - Tables and Bookcases generate consistent losses.
 
-## 6> Profit by Segment
+## 6>Profit by Segment
 - Purpose: Compare profit across customer segments.
-  ![Chart Title](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125502.png?raw=true)
+  ![Profit by Segment](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125502.png?raw=true)
 
 ### Insight:
 - Consumer segment delivers highest profit (~₹135k).
@@ -67,7 +67,7 @@
 
 ## 7>Sales by Region
 - Purpose:  Identify sales distribution across regions.
-  ![Chart Title](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125511.png?raw=true)
+  ![Sales by Region](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125511.png?raw=true)
 
 ### Insight:
 - West and East regions dominate sales (~₹725k and ₹680k).
@@ -76,7 +76,7 @@
 # 3.Multivariate Analysis
 ## 8> Profit vs Sub-Category Heatmap
 - Purpose:Visualize regional profitability by sub-category.
-  ![Chart Title](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125539.png?raw=true)
+  ![Profit vs Sub-Category Heatmap](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125539.png?raw=true)
 
 ### Insight:
 - Accessories & Phones are profitable across all regions.
@@ -85,12 +85,14 @@
 
 ## 9> Discount vs Sales vs Profit Ratio
 - Purpose: Analyze how discounts impact sales and profit margins.
-  ![Chart Title](images/filename.png)
+  ![Discount vs Sales vs Profit Ratio](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125547.png?raw=true)
 
 ### Insight:
 - 0% discount products had highest sales + profit (especially Technology).
 - Deep discounts (>60%) didn’t drive sales and hurt profit margins.
 - Furniture showed mixed performance due to delivery/cost factors.
+
+  
   
 
 
