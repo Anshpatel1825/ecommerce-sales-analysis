@@ -42,7 +42,7 @@
 
 ## 4>Sales by Category
 - Purpose: See which product categories drive sales.
-  ![Chart Title](images/filename.png)
+  ![Chart Title](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125432.png?raw=true)
 
 ### Insight:
 - Technology category leads (~₹850k revenue).
