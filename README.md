@@ -32,7 +32,7 @@
 
 ## 3>Delivery Time Analysis
 - Purpose: Analyze how quickly orders are delivered.
-  ![Chart Title](images/filename.png)
+  ![Chart Title](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125420.png?raw=true)
 
 ### Insight:
 - Majority of deliveries happen in 4–5 days (~2800 orders).
