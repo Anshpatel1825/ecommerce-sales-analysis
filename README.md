@@ -58,7 +58,7 @@
 
 ## 6> Profit by Segment
 - Purpose: Compare profit across customer segments.
-  ![Chart Title](images/filename.png)
+  ![Chart Title](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125502.png?raw=true)
 
 ### Insight:
 - Consumer segment delivers highest profit (~₹135k).
