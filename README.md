@@ -24,7 +24,7 @@
 
 ## 2>State-wise Sales Distribution
 - Purpose: Identify top-performing states by sales volume.
-  ![Chart Title](images/filename.png)
+  ![Chart Title](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125409.png?raw=true)
 
 ### Insight:
 - California, New York, and Texas are top revenue states (~₹2M total).
@@ -35,7 +35,7 @@
   ![Chart Title](images/filename.png)
 
 ### Insight:
--Majority of deliveries happen in 4–5 days (~2800 orders).
+- Majority of deliveries happen in 4–5 days (~2800 orders).
 - Same-day and 1–2 day deliveries are rare, likely premium/niche services.
 
 # 2> Bivariate Analysis
