@@ -92,7 +92,11 @@
 - Deep discounts (>60%) didn’t drive sales and hurt profit margins.
 - Furniture showed mixed performance due to delivery/cost factors.
 
-  
+# Key Takeaways
+- Focus on Technology category and Consumer segment for higher returns.
+- Avoid deep discounts as they reduce margins without boosting sales.
+- Rework pricing/cost structure for Tables and Bookcases.
+- Expand in East & West regions; develop strategy for South & Central.
   
 
 
