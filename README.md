@@ -50,7 +50,7 @@
 
 ## 5> Profit by Sub-Category
 - Purpose: Identify the most and least profitable sub-categories.
-  ![Chart Title](images/filename.png)
+  ![Chart Title](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125442.png?raw=true)
 
 ### Insight:
 - Copiers and Phones top profit contributors.
