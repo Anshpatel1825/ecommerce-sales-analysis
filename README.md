@@ -67,7 +67,7 @@
 
 ## 7>Sales by Region
 - Purpose:  Identify sales distribution across regions.
-  ![Chart Title](images/filename.png)
+  ![Chart Title](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125511.png?raw=true)
 
 ### Insight:
 - West and East regions dominate sales (~₹725k and ₹680k).
