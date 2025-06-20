@@ -15,7 +15,7 @@
 # Visualizations & Insights
   ## 1> Ship Mode vs Order Count
 - Purpose: Understand which shipping modes are most preferred by customers.
-  ![ Ship Mode vs Order Count]("D:\My Projects for DS\E-commerce Sales Analysis\Images\Screenshot 2025-06-20 125349.png")
+  ![ Ship Mode vs Order Count](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125349.png?raw=true)
   ### Insight:
 - Standard Class dominates (~6000 orders), preferred due to cost or balance of speed.
 - Same Day Delivery (~600 orders) is least used, likely due to higher cost or limited availability.
