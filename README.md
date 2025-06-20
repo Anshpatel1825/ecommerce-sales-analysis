@@ -1,4 +1,4 @@
-# E‑Commerce Sales Analysis Project
+# E‑Commerce Sales EDA Project
 - An end‑to‑end exploratory data analysis and visualization project, uncovering actionable insights across sales, profit, discounts, segments, and regions.
 
  # Project Objective & Business Impact
