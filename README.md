@@ -76,7 +76,7 @@
 # 3.Multivariate Analysis
 ## 8> Profit vs Sub-Category Heatmap
 - Purpose:Visualize regional profitability by sub-category.
-  ![Chart Title](images/filename.png)
+  ![Chart Title](https://github.com/Anshpatel1825/ecommerce-sales-analysis/blob/main/Screenshot%202025-06-20%20125539.png?raw=true)
 
 ### Insight:
 - Accessories & Phones are profitable across all regions.
